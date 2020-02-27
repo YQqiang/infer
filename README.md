@@ -1,5 +1,5 @@
 # infer
-infer run shell
+[infer run shell](http://yuqiangcoder.com/2020/02/26/infer.html)
 
 # 基础用法
 
